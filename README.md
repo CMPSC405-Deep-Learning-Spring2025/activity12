@@ -1,5 +1,5 @@
 # Activity 12
-## Due: 10am on March 13, 2025
+## Due: 9am on March 17, 2025
 
 ## Objectives
 - Understand an architecture of the fully functional CNN
