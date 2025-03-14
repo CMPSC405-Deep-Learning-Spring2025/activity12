@@ -11,7 +11,7 @@
    - `nn.AvgPool2d(kernel_size=2, stride=2)  →  nn.MaxPool2d(kernel_size=2, stride=2)`
 2. Replace the softmax layer with ReLU.
    - `nn.Sigmoid()  →  nn.ReLU()`
-3. Add an extra convolutional layer to see if a deeper network performs better.
+3. Add an extra convolutional layer.
 4. Experiment with Kernel Size.
    - `nn.Conv2d(1, 6, kernel_size=3, padding=1)`
 5. Modify Stride (default is 1).
